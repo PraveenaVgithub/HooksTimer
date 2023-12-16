@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HooksTimer/static/css/main.8780ff4d.css",
+    "main.js": "/HooksTimer/static/js/main.9b073bf4.js",
+    "static/js/787.9e8dd82f.chunk.js": "/HooksTimer/static/js/787.9e8dd82f.chunk.js",
+    "index.html": "/HooksTimer/index.html",
+    "main.8780ff4d.css.map": "/HooksTimer/static/css/main.8780ff4d.css.map",
+    "main.9b073bf4.js.map": "/HooksTimer/static/js/main.9b073bf4.js.map",
+    "787.9e8dd82f.chunk.js.map": "/HooksTimer/static/js/787.9e8dd82f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8780ff4d.css",
+    "static/js/main.9b073bf4.js"
+  ]
+}
